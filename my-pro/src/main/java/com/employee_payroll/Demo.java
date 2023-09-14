@@ -11,6 +11,8 @@ import java.util.Hashtable;
  * 
  */
 public class Demo implements ImageConsumer {
+	
+	int num=10;
 
 	/**
 	 * 
